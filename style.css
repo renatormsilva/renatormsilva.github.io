@@ -5,23 +5,21 @@
     margin: 0;
 }
 body {
-    background-color:#B9A3D9;
+    background-color:#ffffff;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 header {
-    background-color: #FFCA40;
+    background-color:#5b2f79;
     border-radius: 32px;
     padding: 8px;
     text-align: center;
     font-weight: bold;
     margin: 2% 10%;
     font-size: 20px;
-    color:#777;
+    color: #CC8714;
     letter-spacing: 2.4px;
     line-height: 32px;
-    
-    
 }
 
 
@@ -40,6 +38,7 @@ header {
     
 }
 
+
 .tags a:hover {
     color: #CC8714;
     font-size: 24px;
@@ -52,7 +51,7 @@ header {
     height: 300px;
     width: 300px;
     margin-bottom: 32px;
-    border: 5px solid #50fa7b;
+    border: 4px solid #dab03e;
     object-fit: cover; 
     box-shadow: 2px 2px 3px
     
@@ -73,7 +72,7 @@ header {
 }
 
 .letters p {
-    color: #503f16;
+    color: #10203d;
     font-weight: normal;
 }
 
